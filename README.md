@@ -1,7 +1,7 @@
-SiteOnChar
+Sit On Char
 ==========
 
-Projektt, który robimy naa warsztatach.  
+Projekt, który robimy na warsztatach.  
 Projekt składa się z grafik i html.
 
 Struktura html
