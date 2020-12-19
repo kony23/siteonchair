@@ -1,9 +1,6 @@
 Sit On Char
 ==========
 
-Projekt, który robimy na warsztatach.  
-Projekt składa się z grafik i html.
-
 Struktura html
 --------------
 
