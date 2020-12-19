@@ -1,4 +1,4 @@
-Sit On Char
+Sit On Chair
 ==========
 
 Struktura html
